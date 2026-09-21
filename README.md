@@ -15,3 +15,4 @@ CSS
 JavaScript
 
 Live Website
+ https://varunmaddiboina.github.io/Learn-Sanskrit-With-Ai/
